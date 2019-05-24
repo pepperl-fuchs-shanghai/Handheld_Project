@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\bin\Release\FA_RFIDTextBox.dll
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\bin\Release\FA_RFIDTextBox.pdb
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.RFIDTextBox.resources
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.dll
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.pdb
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.WarningForm.resources
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\bin\Release\FA_RFIDTextBox.dll
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\bin\Release\FA_RFIDTextBox.pdb
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.RFIDTextBox.resources
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.WarningForm.resources
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.csproj.GenerateResource.Cache
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.dll
+C:\ACD_Task\Backup@20170905\FA_RFIDTextBox\FA_RFIDTextBox\obj\Release\FA_RFIDTextBox.pdb
