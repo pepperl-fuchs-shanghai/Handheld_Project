@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Debug\FreeEditTextBox.FreeEditTextBox.resources
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Debug\FreeEditTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\bin\Debug\FreeEditTextBox.dll
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\bin\Debug\FreeEditTextBox.pdb
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Debug\FreeEditTextBox.dll
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Debug\FreeEditTextBox.pdb
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Debug\FreeEditTextBox.WarningForm.resources

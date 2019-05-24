@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.FreeEditTextBox.resources
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\bin\Release\FreeEditTextBox.dll
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\bin\Release\FreeEditTextBox.pdb
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.dll
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.pdb
+C:\Documents and Settings\Administrator\桌面\RFIDControl\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.WarningForm.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\bin\Release\FreeEditTextBox.dll
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\bin\Release\FreeEditTextBox.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.FreeEditTextBox.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.WarningForm.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.dll
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\ACD_2rd_Version\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.pdb
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.FreeEditTextBox.resources
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.WarningForm.resources
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.dll
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\bin\Release\FreeEditTextBox.dll
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\bin\Release\FreeEditTextBox.pdb
+C:\Documents and Settings\linux\桌面\MyWorkspace\工作空间\ACD_2RD\FreeEditTextBox\FreeEditTextBox\obj\Release\FreeEditTextBox.pdb
